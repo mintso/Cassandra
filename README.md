@@ -93,8 +93,7 @@ b)	Update.
 
 Command UPDATE is used to update data in a certain table. For example, we can update the city of employee with id 1 to “Sanjose”, and his salary to 100000:
 
-```UPDATE employee SET emp_city='Sanjose',emp_sal=100000
-   WHERE emp_id=1;```
+```UPDATE employee SET emp_city='Sanjose',emp_sal=100000 WHERE emp_id=1;```
 
 Run select command again and we can verify that the data has been updated.
 
