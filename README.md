@@ -1,6 +1,7 @@
 # Research On Cassandra Database
 
 This repo is for course 7280. I choose Cassandra and research on it. The entire complete and formal report of my research result can be found in the file named "Research Report". You can also find screenshots of all the sample codes demonstrated below.
+Presentation Video Link: https://www.youtube.com/watch?v=fK6NSGoEgrI
 
 I will elaborate on the following topics:
 1. Introduction. 
